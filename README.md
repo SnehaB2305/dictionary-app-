@@ -7,10 +7,7 @@ Features
 Word Search: Quickly find definitions by entering a word.​
 
 Synonyms and Antonyms: Discover related words to enrich your vocabulary.​
-Stack Overflow
-+1
-pyOpenSci
-+1
+
 
 Text-to-Speech: Hear pronunciations and definitions for better understanding.​
 
@@ -30,32 +27,7 @@ NLTK (Natural Language Toolkit): For accessing WordNet to retrieve synonyms and 
 Installation
 Clone the Repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/dictionary-app.git
-cd dictionary-app
-Install Dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Download NLTK Data:
-
-python
-Copy
-Edit
-import nltk
-nltk.download('wordnet')
-Usage
-Run the Application:
-
-bash
-Copy
-Edit
-python dictionary_app.py
-Search for a Word:
 
 Enter a word in the search bar and click "Search" to view its definition, synonyms, antonyms, and example sentence.​
 
@@ -90,20 +62,6 @@ dictionary-app/
 └── README.md               # Project documentation
 Contributing
 Contributions are welcome! To contribute:​
-pyOpenSci
-+2
-codefellows.github.io
-+2
-Stack Overflow
-+2
 
-Fork the repository.​
 
-Create a new branch (git checkout -b feature-name).​
-
-Commit your changes (git commit -am 'Add feature').​
-
-Push to the branch (git push origin feature-name).​
-
-Create a new Pull Request.​
 
